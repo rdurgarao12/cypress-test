@@ -1,0 +1,70 @@
+[
+    {
+        "bill_id": "3232423432512321",
+        "customer_id": "2",
+        "name": "Test Bill",
+        "total_bill": 2500,
+        "units_consumed": 250,
+        "unit_tariff": 10,
+        "due_date": "04-Jan-2024",
+        "generated_date": "30-Dec-2023",
+        "is_draft": true,
+        "items": [
+          { "propertyId": "213123", "consumed_units": 25 },
+          { "propertyId": "213124", "consumed_units": 175 },
+          { "propertyId": "213125", "consumed_units": 40 },
+          { "propertyId": "213126", "consumed_units": 10 }
+        ]
+      },
+      {
+        "bill_id": "3232423432512322",
+        "customer_id": "2",
+        "name": "Test Bill2",
+        "total_bill": 2000,
+        "units_consumed": 200,
+        "unit_tariff": 10,
+        "due_date": "04-Jan-2024",
+        "generated_date": "30-Dec-2023",
+        "is_draft": true,
+        "items": [
+          { "propertyId": "213123", "consumed_units": 25 },
+          { "propertyId": "213124", "consumed_units": 125 },
+          { "propertyId": "213125", "consumed_units": 40 },
+          { "propertyId": "213126", "consumed_units": 10 }
+        ]
+      },
+      {
+        "bill_id": "32324234325324",
+        "customer_id": "2",
+        "name": "Test Bill3",
+        "total_bill": 2000,
+        "units_consumed": 200,
+        "unit_tariff": 10,
+        "due_date": "04-Jan-2024",
+        "generated_date": "30-Dec-2023",
+        "is_draft": true,
+        "items": [
+          { "propertyId": "213123", "consumed_units": 25 },
+          { "propertyId": "213124", "consumed_units": 125 },
+          { "propertyId": "213125", "consumed_units": 40 },
+          { "propertyId": "213126", "consumed_units": 10 }
+        ]
+      },
+      {
+        "bill_id": "32324234325326",
+        "customer_id": "2",
+        "name": "Test Bill4",
+        "total_bill": 2000,
+        "units_consumed": 200,
+        "unit_tariff": 10,
+        "due_date": "04-Jan-2024",
+        "generated_date": "30-Dec-2023",
+        "is_draft": true,
+        "items": [
+          { "propertyId": "213123", "consumed_units": 25 },
+          { "propertyId": "213124", "consumed_units": 125 },
+          { "propertyId": "213125", "consumed_units": 40 },
+          { "propertyId": "213126", "consumed_units": 10 }
+        ]
+      }                        
+]
